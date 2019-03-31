@@ -1,0 +1,34 @@
+Introduction
+Finding a suitable house in rent can be very difficult by meeting up all the requirements and budget in the cities. Sometimes it becomes very tedious to roam around the city and look for the sign board “TO-LET” in front of the house. After you find one, then you have to talk to the owner, look around the house and finally ask the rent. There might be some rules for living in the house as well from the owner. If all the requirements seem okay to you, then you may talk to the owner for renting it. If not so, you have to look for a new one again. 
+Keeping all the facts in mind, we are here to develop an application for both the house owners and the people who are searching for a house for rent. This application will help them to find the desired and suitable house virtually rather than roam around physically. It will suggest the renter suitable house either based on their location or the location he or she selects as well as the budget and other requirements. On the other hand, the owner of the house will be able to display their house with every details and conditions and rent including pictures on this application. The renters will get all the details very conveniently from here and they will be able to send a request for rent and contact the owner for more details and meet physically to see the house later.
+Project Title
+An Android application for renting a house.
+Goals and Objectives of the Project
+•	To develop a user-friendly medium for both the house owners and the renters for renting a house around the city.
+•	To reduce the tedious process of finding the house for rent by roaming. 
+•	To make the house renting process convenient by bringing it to a virtual platform.
+Motivation
+•	The main reason behind developing this application is to ease the process of having a house for rent.
+•	To make to process of finding renters for the owners conveniently.
+•	This problem of getting a house for rent manually deserves an attention because if all the houses of a city can be brought under a system, the process will be lot easier for the people to get house in rent for living and the city life will be easier.
+•	There are several systems that are available. But the systems are not as effective as it needs to be.
+•	The main target customers of our application are the house owners of the cities who wants to put their house in rent and the people who are in need of having a house for rent to live in the city.
+Description of the Project Activities
+Our house renting application will provide its user a great platform for renting a house easily and the house owners to display the vacant house or apartments. Here the owner will be able to provide brief description about his house such as location, rent, facilities and charges, rules and so on. Moreover, he will be able to attach some pictures of the house or apartment for more specification. On the other hand, the renters will get an opportunity to find the vacant apartment or house based on the specification and his location. From here he can contact the owner to rent the house. Here the users can rate the house or apartment which will help the future renters.
+So basically, the system will have two different types of users. Here, the renters who are willing to get a house for rent according to his affordability and requirements. And others are the house owners who will display their vacant house or apartments with specifications using this application.
+Environment and Implementation plan
+1. Languages: JAVA, XML, SQLite 
+2. Enviroment: Android 
+3. Software: Android studio, Eclipse
+
+Issues and challenges of the Implementation
+It will be challenging for our system to get enough house owners to be registered to provide enough vacant apartments according to the demand of the house renters in a city.
+There are some existing systems that provide the house renting service. But most of them are text based and there is no graphical user interface. Moreover, we will provide a dynamic system for various type of users as per affordability of people varies in a wide range. We will provide, search filtering system based on location, house rent range and other facilities. We will also provide a sorted result to compare various options.   
+
+Timeline
+Estimated time to complete this project is about four months.
+
+Estimated budget    
+ 
+Conclusion
+Housing has a central importance to quality of life with considerable economic, social, cultural and personal significance. In urban life, it is quite difficult for people to find a suitable house or apartment within one’s affordability. Also, sometimes houseowners require specific type of renters for his house. Our system will provide a flexible and dynamic way to its user to let and rent their houses. 
